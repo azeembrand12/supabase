@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.864);
+}
+
+#box1 {
+    width: 200px;
+    height: 200px;
+    background:rgb(253, 54, 54);
+}
+
+#box2 {
+    width: 200px;
+    height: 200px;
+    background: blue;
+}
+
+#box3 {
+    width: 200px;
+    height: 200px;
+    background: green;
+}
+#box4 {
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 255, 255);
+}
+#box5 {
+    width: 200px;
+    height: 200px;
+    background: rgb(236, 97, 97);
+}
